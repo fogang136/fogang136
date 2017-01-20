@@ -1,1 +1,44 @@
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name ="keywords" content="在线身份证,查询," />
+<meta name ="Description" content="最权威的身份证查询" />
+<title>身份证查询</title>
+<style type="text/css">
+body{text-align:center;font-family:\5B8B\4F53,Arial Narrow;background:#fff;font-size:14px;line-height:21px;color:#060606;}
+body,div,img,form,input{margin:0px auto; padding:0px; border:0px;}
+input{margin:0px;border:1px solid #b0bec7;background-color:#fff;line-height:24px;}
+div{word-wrap:break-word;}
+a{color:#fff;text-decoration:none;}
+a:hover{color:#bd0a01;text-decoration:underline;cursor:pointer;}
+input:hover{color:#bd0a01;-moz-box-shadow:0 0 1px 1px #b0bec7;}
+input:focus{-moz-box-shadow:0 0 1px 1px #b0bec7;}
+.box{width:536px;}
+#i{width:536px;height:250px;border:1px solid #91BBEE;border-top-width:3px;background-color:#E4E9ED;}
+#i #t{color:#fff;font-size:16px;font-weight:bold;height:26px;line-height:26px;background-image:url(/images/top.gif);}
+#i .m{width:460px;border-bottom:1px solid #b0bec7;text-align:left;color:#004B98;font-weight:bold;}
+#i .b{height:30px;line-height:30px;}
+#i .b .n{width:160px;float:left;padding-right:6px;text-align:right;}
+#i .b .d{float:left;}
+#i .b .d .in{width:200px;color:#222;height:22px;padding-left:4px;}
+#i .b .d .but{width:80px;height:26px;cursor:pointer;}
+.bl{height:10px;font-size:1px;clear:both;}
+</style>
+<script type="text/javascript">
+function ID(){var fm=document.forms["idform"];var val=fm["in_id"].value;var len=val.length;if(len==18 || len==15){for(var i=0;i<len;i++){if(!Num(val.charAt(i))){alert("输入的身份证号码错误，请检查！");return false;}}return true;} alert("输入的身份证号码长度应该是18位或15位，请检查！");return false;}
+function Num(c){return ((c >='0' && c<='9') || c=='x' || c=='X')?true:false;}
+</script>
+</head>
+<body>
+<div class="box"><form name="idform" action="http://idquery.duapp.com/index.php" method="post" OnSubmit="return ID();"><div id="i">
+<div id="t"><a href="http://www.fogan.eu.org/" target="_black">在线</a>&nbsp;身份证查询</div><div class="bl"></div>
+<div class="m">身份证查询</div><div class="bl"></div>
+<div class="b"><div class="n">　身份证号码：</div><div class="d"><input type="text" name="in_id" class="in" maxlength="128" value="">&nbsp;&nbsp;<input type="submit" name="submit" class="but" value="查 询"></div></div>
+<div class="b"><div class="n">　　　发证地：</div><div class="d"></div></div>
+<div class="b"><div class="n">　　出生日期：</div><div class="d"></div></div>
+<div class="b"><div class="n">　　　　性别：</div><div class="d"></div></div>
+<div class="b"><div class="n">18位身份证号：</div><div class="d"></div></div>
+</div></form></div>
+<div style="display:none;"><script src="http://app.baidu.com/static/appstore/monitor.st"></script></div>
+</body></html>
