@@ -7,12 +7,7 @@
 广东科教,http://khao.xyz/daili/gdxx.php?id=kjpd
 广东少儿,http://khao.xyz/daili/gdxx.php?id=tvs5
 广东影视,http://khao.xyz/daili/gdxx.php?id=tvs4
-佛冈综合,http://hk.yunyue.ga/daili/touchtv.php?id=2460
-清新综合频道,http://hk.yunyue.ga/daili/touchtv.php?id=2448
-英德新闻综合频道,http://hk.yunyue.ga/daili/touchtv.php?id=2447
-连州视讯,http://hk.yunyue.ga/daili/touchtv.php?id=2456
-连州综合,http://hk.yunyue.ga/daili/touchtv.php?id=2455
-现代教育,http://hk.yunyue.ga/daili/touchtv.php?id=2436
+
 央视直播,#genre#
 CCTV-1,http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
 CCTV-2,http://39.135.34.132:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive
