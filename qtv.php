@@ -3,9 +3,26 @@
 <body>
 
 广东频道,#genre#
+广东珠江,http://fogang136.cf/daili/gdstv.php?id=zjpd 
 广东珠江,http://fogang136.cf/daili/gudoutv.php?id=gdzhujiang_1500
+广东公共,http://fogang136.cf/daili/gdstv.php?id=ggpd
 广东公共,http://fogang136.cf/daili/gudoutv.php?id=gdpublic_1500
+广东新闻,http://fogang136.cf/daili/gdstv.php?id=xwpd
 广东新闻,http://fogang136.cf/daili/gudoutv.php?id=gdnews_1500
+佛冈电视台,http://fogang136.cf/daili/touchtv.php?id=2460
+清新公共频道,http://hls.wiseqx.com/live/qxgg.m3u8
+清新综合频道,http://hls.wiseqx.com/live/qxzh.m3u8
+清远综合,http://fogang136.cf/daili/qytv.php?id=qyzh
+清远综合,http://stream1.0763f.com/qyzh/sd/live.m3u8
+清远综合,http://dslive.grtn.cn/qyzh/sd/live.m3u8
+广东南方卫视,http://fogang136.cf/daili/gdxx.php?id=tvs2
+广州新闻频道,http://fogang136.cf/daili/gdgz.php?id=gzxw
+广州新闻频道,http://fogang136.cf/daili/hktvdl.php?id=11
+广州影视频道,http://fogang136.cf/daili/gdgz.php?id=gzys
+广州综合频道,http://fogang136.cf/daili/gdgz.php?id=gzzh
+广州法治频道,http://fogang136.cf/daili/gdgz.php?id=gzfz
+广州生活频道,http://fogang136.cf/daili/gdgz.php?id=gzsh
+广州竞赛频道,http://fogang136.cf/daili/gdgz.php?id=gzjs
 南方卫视,http://fogang136.cf/daili/gudoutv.php?id=gdnanfang_1500
 广东经视,http://fogang136.cf/daili/gudoutv.php?id=GDjingjikejiao_3000
 广东综艺,http://fogang136.cf/daili/gudoutv.php?id=gdzongyi_1500
