@@ -60,24 +60,21 @@
 
 央视高清,#genre#
 
-CCTV1,http://121.31.30.87:8085/ysten-business/qlive/cctv-1/1.m3u8#http://scgctvshow.sctv.com/hdqlive/cctv1/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8#http://221.6.85.150:9000/qlive/cctv1_800/cctv1_800.m3u8
-CCTV2,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://221.6.85.150:9000/qlive/cctv2_800/cctv2_800.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls
-CCTV3,http://121.31.30.87:8085/ysten-business/qlive/cctv-3/1.m3u8#http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8
-CCTV4,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8#http://120.221.5.102:8089/PLTV/88888888/224/3221225757/index.m3u8#http://221.6.85.150:9000/qlive/cctv4_800/cctv4_800.m3u8
-CCTV5,http://121.31.30.87:8085/ysten-business/qlive/cctv-5/1.m3u8#http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
-CCTV-5+,http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
-CCTV6,http://121.31.30.91:8085/ysten-business/qlive/cctv-6/1.m3u8#http://221.6.85.150:9000/qlive/cctv6_800/cctv6_800.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
-CCTV7,http://101.71.255.229:6610/zjhs/2/10067/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://111.40.205.70/PLTV/88888888/224/3221225593/index.m3u8#http://117.169.120.160:8080/qlive/cctv-7/1.m3u8#http://221.6.85.150:9000/qlive/cctv7_800/cctv7_800.m3u8
-CCTV8,http://121.31.30.91:8085/ysten-business/qlive/cctv-8/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226330/index.m3u8#http://qlive.aikan.miguvideo.com/PLTV/88888888/224/3221229083/index.m3u8
-CCTV9,http://121.31.30.87:8085/ysten-business/qlive/cctv-news/1.m3u8#http://101.71.255.229:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://221.6.85.150:9000/qlive/cctv9_800/cctv9_800.m3u8
-CCTV10,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8#http://101.71.255.229:6610/zjhs/2/10072/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://117.156.28.21/PLTV/88888888/224/3221225718/index.m3u8#http://221.6.85.150:9000/qlive/cctv10_800/cctv10_800.m3u8
-CCTV11,http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8#http://117.169.120.160:8080/qlive/cctv-11/1.m3u8
-CCTV12,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8#http://221.6.85.150:9000/qlive/cctv12_800/cctv12_800.m3u8#http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://120.221.5.102:8089/PLTV/88888888/224/3221225763/index.m3u8
-CCTV13,http://stream4.jlntv.cn/cctv13/sd/qlive.m3u8#http://qlives.jnnews.tv/video/s10001-CCTV/index.m3u8#http://111.63.117.13:6060/030000001000/CCTV-13/CCTV-13.m3u8
-CCTV14,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8#http://117.169.120.160:8080/qlive/cctv-14/1.m3u8#http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225535/1.m3u8#http://221.6.85.150:9000/qlive/cctv14_800/cctv14_800.m3u8
-CCTV15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.qlive_hls.zte.com#http://117.169.120.160:8080/qlive/cctv-15/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8
-
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+  
 卫视频道,#genre#
 
 安徽卫视,http://121.31.30.91:8081/ysten-business/live/anhuistv/1.m3u8
