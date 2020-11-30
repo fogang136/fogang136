@@ -4,20 +4,12 @@
 
 广东频道,#genre#
 广东珠江,http://fogang136.cf/daili/gdstv.php?id=zjpd 
-
 广东公共,http://fogang136.cf/daili/gdstv.php?id=ggpd
-
 广东新闻,http://fogang136.cf/daili/gdstv.php?id=xwpd
-
-
 清新公共频道,http://hls.wiseqx.com/live/qxgg.m3u8
 清新综合频道,http://hls.wiseqx.com/live/qxzh.m3u8
-
 清远综合,http://stream1.0763f.com/qyzh/sd/live.m3u8
 清远综合,http://dslive.grtn.cn/qyzh/sd/live.m3u8
-
-
-
 
 央视高清,#genre#
 
