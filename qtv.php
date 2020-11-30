@@ -3,9 +3,9 @@
 <body>
 
 广东频道,#genre#
-广东珠江,http://fogang136.cf/daili/gdstv.php?id=zjpd 
-广东公共,http://fogang136.cf/daili/gdstv.php?id=ggpd
-广东新闻,http://fogang136.cf/daili/gdstv.php?id=xwpd
+广东珠江,http://zyj520ljzfjzfx.xyz/gdtv.php?id=44 
+广东新闻,http://zyj520ljzfjzfx.xyz/gdtv.php?id=45 
+广东公共,http://zyj520ljzfjzfx.xyz/gdtv.php?id=48 
 清新公共频道,http://hls.wiseqx.com/live/qxgg.m3u8
 清新综合频道,http://hls.wiseqx.com/live/qxzh.m3u8
 佛山新闻频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
@@ -51,7 +51,6 @@
 佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 开平综合,https://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1434.m3u8
 开平生活,https://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1435.m3u8
-
 江门公共,rtmp://tideweblive.jmtv.cn/tslsChannelLive/qzohscw/live
 江门教育,rtmp://tideweblive.jmtv.cn/tslsChannelLive/S020qM6/live
 蛇口,http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
