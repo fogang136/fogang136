@@ -3,9 +3,9 @@
 <body>
 
 广东频道,#genre#
-广东珠江,http://zyj520ljzfjzfx.xyz/gdtv.php?id=44 
-广东新闻,http://zyj520ljzfjzfx.xyz/gdtv.php?id=45 
-广东公共,http://zyj520ljzfjzfx.xyz/gdtv.php?id=48 
+广东珠江,http://di.fogang.ga/daili/gdtv.php?id=44 
+广东新闻,http://di.fogang.ga/daili/gdtv.php?id=45 
+广东公共,http://di.fogang.ga/daili/gdtv.php?id=48 
 清新公共频道,http://hls.wiseqx.com/live/qxgg.m3u8
 清新综合频道,http://hls.wiseqx.com/live/qxzh.m3u8
 佛山新闻频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
